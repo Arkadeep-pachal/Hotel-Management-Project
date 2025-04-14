@@ -1,1 +1,2 @@
 # Hotel-Management-Project
+This project is designed to manage various operations of a hotel using SQL database management. It includes modules for guest reservations, room management, billing, staff management, and services tracking. SQL queries and procedures are used to store, retrieve, update, and manage data efficiently. The system ensures streamlined check-ins/check-outs, automated bill generation, and better resource allocation for smooth hotel operations.
